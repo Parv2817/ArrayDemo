@@ -4,9 +4,6 @@
  */
 package arraydemowed;
 
-
-//I don't want anything 
-
 import java.util.Arrays;
 import java.util.Scanner;
 
