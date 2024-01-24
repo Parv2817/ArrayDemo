@@ -18,6 +18,8 @@ public class ArrayDemoWed {
         
         String myWord = input.nextLine();
         
+        
+        
         char[] myLetters = new char[myWord.length()];
         
         
