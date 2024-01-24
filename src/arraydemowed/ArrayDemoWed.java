@@ -11,6 +11,7 @@ package arraydemowed;
 
 
 //I don't want anything 
+//This is for fetch and merge
 
 import java.util.Arrays;
 import java.util.Scanner;
